@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SergiuBic
 - 👀 I’m interested in Web Development/ Game Development.
 - 🌱 I’m currently learning VueJS, ReactJS, Svelte, Webpack, TailwindCSS, Vuetify, Bulma.
-- 📫 How to reach me https://sergiubic.com
+- 📫 https://sergiubic.com
